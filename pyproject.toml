@@ -1,0 +1,11 @@
+[project]
+name = "orux"
+version = "0.1.0"
+description = "Context-aware decision engine for human-in-the-loop systems"
+
+dependencies = [
+  "typer",
+  "rich",
+  "pydantic",
+  "pyyaml"
+]
